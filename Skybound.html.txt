@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+  color: #666;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Reach new heights</h1>
+  <h2>With Nimbus, the sky's the limit. Explore new heights and see the world from a whole new perspective.</h2>
+  <button class="button">Learn More</button>
+</div>
+</body>
+</html>
